@@ -10,7 +10,7 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=khaliddotio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=khaliddotio&theme=dark&hide_border=false)<br/>
-<img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/fIO51kd336oJO3EB4P3kSjVoWsLKJydVn7gvfCsiEOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Ymhld1Vod0NUWVlB/QUFBbS90dXgtbGlu/dXgtdHV4LndlYnA" />
+<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/fIO51kd336oJO3EB4P3kSjVoWsLKJydVn7gvfCsiEOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Ymhld1Vod0NUWVlB/QUFBbS90dXgtbGlu/dXgtdHV4LndlYnA" />
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=khaliddotio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
